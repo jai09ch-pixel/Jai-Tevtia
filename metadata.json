@@ -1,0 +1,8 @@
+{
+  "name": "First Sip",
+  "description": "Affordable, flavourful everyday beverages crafted for students and young professionals in Dehradun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
